@@ -28,7 +28,14 @@ public class Ex08 {
         System.out.print("Insira os segundos da musica 5: ");
         segundosTotais = segundosTotais + input.nextInt();
 
+        int segundosTotaisAlbum = (minutosTotais*60) + segundosTotais;
+
         System.out.print(minutosTotais +"min" +segundosTotais + "s");
+
+        int horas = segundosTotaisAlbum/3600;
+        int minutos = (segundosTotaisAlbum/60)-(horas*60);
+        int segundos = segundosTotaisAlbum-(horas*3600)-(minutos*60);
+        System.out.print("\n" + horas + "h" + minutos +"min" + segundos + "s");
 
     }
 }
