@@ -7,22 +7,35 @@ public class Ex07 {
 
         Scanner input = new Scanner(System.in);
 
-        int numeroInicial = 0, numero, numeroFinal = 0;
+        int antecessor = 0, numero, sucessor = 0;
 
         System.out.println("Informe um número: ");
         numero = input.nextInt();
 
-        numeroInicial = numero - 5;
-        numeroFinal  = numero + 5;
+        antecessor = numero - 5;
+        sucessor  = numero + 5;
 
-        while (numero > numeroInicial) {
-            System.out.println(numeroInicial);
-            numeroInicial = numeroInicial + 1;
+        while (numero > antecessor) {
+            System.out.println(antecessor);
+            antecessor = antecessor + 1;
         }
 
-        while (numero < numeroFinal) {
+        while (numero < sucessor) {
             System.out.println(numero);
             numero = numero + 1;
         }
+
+        /**
+         * sucessor= num+5;
+         * num = num -5;
+         *
+         * while(num<=sucessor){
+         *  if(num!=sucessor-5)
+         *  System.out.println(num);
+         * }  else {
+         *     System.out.println();
+         * }
+         * num++;
+         */
     }
 }

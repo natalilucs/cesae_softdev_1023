@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d65b4c7-3ccd-4851-8e52-97fcfc72d968" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex05.java" beforeDir="false" afterPath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex07.java" beforeDir="false" afterPath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/FichasJava/src/FichaPratica03/Ex12.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XTbjttL5Tykt88wr9eeo00St0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d65b4c7-3ccd-4851-8e52-97fcfc72d968" name="Changes" comment="" />
+      <created>1698656155472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698656155472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cesae_softdev_1023$Ex13.ic" NAME="Ex13 Coverage Results" MODIFIED="1698660179513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FichaPratica03.*</FILTER>
+    </SUITE>
+  </component>
+</project>
